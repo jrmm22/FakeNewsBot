@@ -1,0 +1,1 @@
+{ "centros":50195, "urgencias":25305, "albergues":18995, "otros":3014, "ofrecimientos":2650 }
