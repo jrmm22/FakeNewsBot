@@ -1,4 +1,3 @@
 # FakeNewsBot
-Reads hashtags from hashtags.txt and searches the twitter for usernames using the hasgtags.
+Reads from verificado19s DB and pushes out Tweets to inform the public.
 
-Tweets a message to those usernames
